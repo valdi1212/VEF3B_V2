@@ -1,0 +1,11 @@
+Hugmynd fyrir verkefni!
+
+Búa til viðmót sem betrumbætir val fyrir Tækniskólann
+
+Leyfa notanda að velja þá áfanga sem hann hefur tekið núþegar og sýna hvað hann getur valið út frá því
+
+Láta hann fyrst skrá sig með notandanafni og password, geyma notandagögn í gagnagrunni
+
+Sýna áfanga í eitthversskonar myndrænu viðmóti, sem virkar líka fyrir síma.
+
+Gera fyrir tölvubraut, eða fyrir allan skólann?
